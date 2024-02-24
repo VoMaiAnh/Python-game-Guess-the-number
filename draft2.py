@@ -5,13 +5,10 @@ Created on Sun Feb 2024
 @author: Mai Anh Võ
 """
 
-import numpy as np
-import pickle
 import streamlit as st
 import getpass
 import random
 import pandas as pd
-import matplotlib.pyplot as plt 
 
 rondas = {'Modo':[], 'Nivel':[], "Intentos":[], 'Punto':[]}
 
